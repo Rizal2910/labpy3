@@ -49,6 +49,55 @@ setelah di save, mari kita jalankan programnya menggunakan python shell,dengan m
 Setelah muncul programnya mari kita run dengan menekan tombol F5, dan hasilnya seperti dibawah ini
 #![5 2](https://user-images.githubusercontent.com/46733453/52894154-ae174100-31d7-11e9-8b6e-64835a0ecc9e.png)
 
+ALUR ALGORITMA program1.py
+Sebelum kita memulai, terlebih dahulu membaca Do'a.
+pertama yaitu kita buka aplikasi notepad
+# ![1](https://user-images.githubusercontent.com/46733453/52893654-380fdb80-31d1-11e9-8ae8-851c45a8b168.png)
+# LANGKAH 1
+setelah itu kita tulis kodingannya,seperti contoh di bawah ini
+# ![a](https://user-images.githubusercontent.com/46733453/52894475-7d85d600-31dc-11e9-8474-f46864e13d5e.png)
+
+berikut penjelasan tentang kodingan yang di atas
+a = 100000000
+for x in range(1,9):
+	if(x>=1 and x<=2):
+		b=a*0
+		print('Laba bulan ke-',x,' :',b)
+	if(x>=3 and x<=4):
+		c=a*0.1
+		print('Laba bulan ke-',x,' :',c)
+	if(x>=5 and x<=7):
+		d=a*0.5
+		print('Laba bulan ke-',x,' :',d)
+	if(x==8):
+		e=a*0.2
+		print('Laba bulan ke-',x,' :',e)
+total = b+b+c+c+d+d+d+e
+print('\nTotal : ', total)
+
+"print"	= Fungsi "print()" berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (Layar).
+"if"	= Bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan. Dengan fungsi ini kita bisa menjalankan suatu perintah dalam kondisi tertentu. 
+"for"	= Perulangan yang terhitung.
+"range" = Mengembalikan deret integer berurut pada range yang ditentukan dari start sampai stop.
+"for x in range" = "for" perulangan yang terhitung, dan "range" mengembalikan deret integer berurut pada range yang ditentukan dari start sampai stop.
+"\nTotal" = Membuat garis baru, dan menampilkan total hasil dari apa yang kita inginkan.
+# LANGKAH 2
+Jika sudah di kerjakan seperti diatas, kita save dengan nama program1.py
+# ![y](https://user-images.githubusercontent.com/46733453/52894519-42d06d80-31dd-11e9-8a7a-09dc753270a4.png)
+
+# LANGKAH 3 
+setelah di save, mari kita jalankan programnya menggunakan python shell,dengan mengklik kanan dan pilih IDLE WITH berikut contohnya
+# ![b](https://user-images.githubusercontent.com/46733453/52894525-57ad0100-31dd-11e9-9747-09da3283047e.png)
+
+# LANGKAH 4
+Setelah muncul programnya mari kita run dengan menekan tombol F5, dan hasilnya seperti dibawah ini
+# ![c](https://user-images.githubusercontent.com/46733453/52894529-64c9f000-31dd-11e9-8b4d-e73688f14bae.png)
+
+                                           SEKIAN TERIMAKASIH 
+                                       RIZAL RAMADHANI TI 18 A 1
+
+
+
 
 
 
